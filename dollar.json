@@ -47,9 +47,9 @@
 		"onesignal_app_id": "00000000-0000-0000-0000-000000000000"
 	},
 	"ads": {
-		"ad_status": "0",
-		"ad_type": "admob",
-		"backup_ads": "none",
+		"ad_status": "1",
+		"ad_type": "fan",
+		"backup_ads": "applovin_discovery",
 		"admob_publisher_id": "pub-3940256099942544",
 		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 		"admob_banner_unit_id": "292881375252376_422968032243709",
