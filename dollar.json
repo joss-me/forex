@@ -49,7 +49,7 @@
 	"ads": {
 		"ad_status": "1",
 		"ad_type": "applovin_discovery",
-		"backup_ads": "applovin_discovery",
+		"backup_ads": "fan",
 		"admob_publisher_id": "pub-3940256099942544",
 		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 		"admob_banner_unit_id": "292881375252376_422968032243709",
@@ -62,7 +62,7 @@
 		"unity_interstitial_placement_id": "video",
 		"applovin_banner_ad_unit_id": "b6281e96a233a27a",
 		"applovin_interstitial_ad_unit_id": "a8ba09f6c56bd925",
-		"applovin_native_ad_manual_unit_id": "0",
+		"applovin_native_ad_manual_unit_id": "61772b186111ea33",
 		"applovin_banner_zone_id": "0",
 		"applovin_interstitial_zone_id": "0",
 		"interstitial_ad_interval": 5
