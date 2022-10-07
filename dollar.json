@@ -3,7 +3,7 @@
 		"status": "1",
 		"toolbar": "false",
 		"navigation_drawer": "true",
-		"geolocation": "true",
+		"geolocation": "false",
 		"cache": "false",
 		"open_link_in_external_browser": "false",
 		"privacy_policy_url": "https://sites.google.com/view/blogger-recipes-app-privacy",
@@ -15,7 +15,7 @@
 			"name": "Home",
 			"type": "url",
 			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_home.png",
-			"url": "https://xsemikorea.blogspot.com/"
+			"url": "https://blog.mforex.xyz/"
 		},
 		{
 			"name": "Portfolio",
